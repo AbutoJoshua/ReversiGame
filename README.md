@@ -1,4 +1,4 @@
-**Edit a file, create a new file, and clone from Bitbucket in under 2 minutes**
+The reversi game description:
 
 The reversi game is based on the original reversi game, also known as Othello, and can be sampled in the link below:
 http://www.webgamesonline.com/reversi/
